@@ -1,0 +1,11 @@
+{
+    // Name this configuration
+    "name": "Albsierra's codespace!",
+    "customizations": {
+        "vscode": {
+            "extensions": [
+                "GitHub.copilot"
+            ]
+        }
+    }
+}
